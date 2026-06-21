@@ -1,4 +1,4 @@
-AI Arena App
+# AI Arena App
 
 A small Python project for experimenting with AI-related arena simulations. This repository contains a minimal runner and arena logic that can be extended for demonstrations, experiments, or learning exercises.
 
